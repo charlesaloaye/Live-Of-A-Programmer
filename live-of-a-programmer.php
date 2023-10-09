@@ -1,7 +1,7 @@
 <?php
    // Checking if am alive
 if (!$alive) {
-    exit();
+   die();
 } else {
     // Keep Coding
     $code++;
